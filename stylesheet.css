@@ -1,0 +1,16 @@
+ #contact {
+      background: #66AAFF;
+      color: #777;
+      float: left;
+      border-left: .25pt solid #002b5c;
+      padding: 0em;
+    }
+
+    div p {
+      color: black;
+      margin: 3em;
+    }
+
+    p {
+      margin: .5px;
+    }
