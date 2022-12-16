@@ -4,6 +4,7 @@
       float: left;
       border-left: .25pt solid #002b5c;
       padding: 0em;
+      align-content: center;
     }
 
     div p {
